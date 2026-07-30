@@ -27,7 +27,7 @@
     "bip66": "^2.0.0",
     "bitcoinjs-lib": "^7.0.0",
     "bitcoinjs-message": "^2.2.0",
-    "brace-expansion": "^4.0.1",
+    "brace-expansion": "^5.0.0",
     "commander": "^14.0.2",
     "elliptic": "^6.6.1",
     "glob": "^11.0.3",
