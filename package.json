@@ -16,7 +16,7 @@
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.27.1",
     "@babel/plugin-transform-optional-chaining": "^7.28.5",
     "@babel/runtime": "^7.28.4",
-    "@buildonspark/spark-sdk": "^0.4.2",
+    "@buildonspark/spark-sdk": "^0.9.0",
     "@nostr-dev-kit/ndk": "^2.18.1",
     "@synonymdev/react-native-ldk": "^0.0.161",
     "@types/golang-wasm-exec": "^1.15.2",
